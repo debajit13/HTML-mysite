@@ -2,7 +2,7 @@
  <img height="100" width="100" src="icons/d.png">
 </p>
 
-# HTML-mysite
+# Old Style Portfolio
 Portfolio website created using HTML5.
 
 # Motivation
