@@ -12,7 +12,7 @@ Created this website to apply the features of HTML5 and made a website that look
 <img src="https://img.shields.io/badge/github-success-green">
 
 # Screenshots
-
+<img src="images/screenshot.png">
 
 # Language Used
 **Built with**
