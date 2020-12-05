@@ -3,30 +3,31 @@
 </p>
 
 # Old Style Portfolio
+
 Portfolio website created using HTML5.
 
-# Motivation
+## Motivation
+
 Created this website to apply the features of HTML5 and made a website that looks like 90's.
 
-# Build Status
-<img src="https://img.shields.io/badge/github-success-green">
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/Old-Style-Portfolio/graphs/commit-activity) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://debajit13.github.io/Old-Style-Portfolio/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/Old-Style-Portfolio/issues) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-# Screenshots
+## Screenshots
+
 <img src="images/screenshot.png">
 
-# Language Used
+## Language Used
+
 **Built with**
+
 1. [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-# How to use?
-If you want to visit this website just go to this [link](https://debajit13.github.io/HTML-mysite/)
-* If you want to connect with me just go to the footer section and click on linkedIn, Twitter and connect with me.
-* If you want to see my certificates just click on the links and you are able to see all the certificates there.
+## How to use?
 
-# How to contribute?
-1. Fork the project.
-1. Create a different branch.
-1. Add your code to that branch.
-1. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) 
+If you want to visit this website just go to this [link](https://debajit13.github.io/Old-Style-Portfolio/) and then after cloning edit the code as you per your requirements.
+
+## Want To Be a Contributor?
+
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 <p align="center">Made with :heart: and :coffee: by Debajit Mallick</p>
